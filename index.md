@@ -1,3 +1,7 @@
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 # This is Yuqi testing the header here
 ## Hello world
 ### header 3
@@ -11,3 +15,4 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
